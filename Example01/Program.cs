@@ -5,7 +5,7 @@
 // 12->2
 // 85->8
 
-int num = new Random().Next(10, 100);
+int num = new Random().Next(10, 100);  // формула рандомного числа
 Console.WriteLine($"Было сгенерировано число {num}");
 // Console.WriteLine("Было сгенерировано число " + num);
 int num1 = num / 10;
