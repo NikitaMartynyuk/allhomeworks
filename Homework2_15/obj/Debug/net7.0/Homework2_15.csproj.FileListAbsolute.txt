@@ -1,0 +1,15 @@
+D:\c#Урок 2 семинары\Examples\Homework2_15\bin\Debug\net7.0\Homework2_15.exe
+D:\c#Урок 2 семинары\Examples\Homework2_15\bin\Debug\net7.0\Homework2_15.deps.json
+D:\c#Урок 2 семинары\Examples\Homework2_15\bin\Debug\net7.0\Homework2_15.runtimeconfig.json
+D:\c#Урок 2 семинары\Examples\Homework2_15\bin\Debug\net7.0\Homework2_15.dll
+D:\c#Урок 2 семинары\Examples\Homework2_15\bin\Debug\net7.0\Homework2_15.pdb
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.csproj.AssemblyReference.cache
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.AssemblyInfoInputs.cache
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.AssemblyInfo.cs
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.csproj.CoreCompileInputs.cache
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.dll
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\refint\Homework2_15.dll
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.pdb
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\Homework2_15.genruntimeconfig.cache
+D:\c#Урок 2 семинары\Examples\Homework2_15\obj\Debug\net7.0\ref\Homework2_15.dll
