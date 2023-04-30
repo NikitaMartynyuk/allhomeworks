@@ -1,0 +1,15 @@
+D:\c#Урок 2 семинары\Examples\Example17\bin\Debug\net7.0\Example17.exe
+D:\c#Урок 2 семинары\Examples\Example17\bin\Debug\net7.0\Example17.deps.json
+D:\c#Урок 2 семинары\Examples\Example17\bin\Debug\net7.0\Example17.runtimeconfig.json
+D:\c#Урок 2 семинары\Examples\Example17\bin\Debug\net7.0\Example17.dll
+D:\c#Урок 2 семинары\Examples\Example17\bin\Debug\net7.0\Example17.pdb
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.csproj.AssemblyReference.cache
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.AssemblyInfoInputs.cache
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.AssemblyInfo.cs
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.csproj.CoreCompileInputs.cache
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.dll
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\refint\Example17.dll
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.pdb
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\Example17.genruntimeconfig.cache
+D:\c#Урок 2 семинары\Examples\Example17\obj\Debug\net7.0\ref\Example17.dll

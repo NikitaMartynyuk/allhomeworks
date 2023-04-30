@@ -7,12 +7,12 @@ Console.WriteLine("Введите координату Y");
 int y = Convert.ToInt32(Console.ReadLine());
 
  if (x > 0 && y > 0)
-//     System.Console.WriteLine("Четверть № 1");
-// else if (x > 0 && y < 0)
-//     System.Console.WriteLine("Четверть № 4");
-// else if (x < 0 && y < 0)
-//     System.Console.WriteLine("Четверть № 3");
-// else if (x < 0 && y > 0)
-//     System.Console.WriteLine("Четверть № 2 ");
-// else 
-// System.Console.WriteLine("Точка лежит на координатной оси");    
+    System.Console.WriteLine("Четверть № 1");
+else if (x > 0 && y < 0)
+    System.Console.WriteLine("Четверть № 4");
+else if (x < 0 && y < 0)
+    System.Console.WriteLine("Четверть № 3");
+else if (x < 0 && y > 0)
+    System.Console.WriteLine("Четверть № 2 ");
+else 
+System.Console.WriteLine("Точка лежит на координатной оси");    
