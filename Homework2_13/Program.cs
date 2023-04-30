@@ -10,7 +10,8 @@
 Console.Write("Введите число: ");
         int number = Convert.ToInt32(Console.ReadLine());
 
-        // Получаем третью цифру числа
+        // Получаем третью цифру числа ;
+        //  (number / 100) % 10 везде пишут такую формулу.Не работает.
         int thirdDigit = (number / 1) % 10;
         
         if (thirdDigit == -1)
