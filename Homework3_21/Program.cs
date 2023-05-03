@@ -10,13 +10,13 @@
 
 double x1, y1, z1, x2, y2, z2;
 Console.WriteLine("Введите координаты первой точки (x1 y1 z1):");
-string[] coords1 =Console.ReadLine().Split(' ');
+string[] coords1 = Console.ReadLine()!.Split(' ');
 x1 = double.Parse(coords1[0]);
 y1 = double.Parse(coords1[1]);
 z1 = double.Parse(coords1[2]);
 
 Console.WriteLine("Введите координаты второй точки (x2 y2 z2):");
-string[] coords2 =Console.ReadLine().Split(' ');
+string[] coords2 = Console.ReadLine()!.Split(' ');
 x2 = double.Parse(coords2[0]);
 y2 = double.Parse(coords2[1]);
 z2 = double.Parse(coords2[2]);

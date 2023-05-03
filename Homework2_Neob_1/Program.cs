@@ -6,7 +6,7 @@
 // 567,123 -> 57,123
 
 Console.Write("Введите число: ");
-        string input = Console.ReadLine();
+        string input = Console.ReadLine()!;
 
         if (input.Length < 3) {
             Console.WriteLine("нет");
