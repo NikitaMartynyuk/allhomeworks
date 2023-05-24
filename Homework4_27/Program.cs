@@ -7,7 +7,7 @@
 // 9012 -> 12
 
 Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine()!);
 
 int sum = 0;
 for (; number > 0; number /= 10)
