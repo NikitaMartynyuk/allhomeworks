@@ -1,0 +1,15 @@
+D:\c#Урок 2 семинары\Examples\Homework4_25\bin\Debug\net7.0\Homework4_25.exe
+D:\c#Урок 2 семинары\Examples\Homework4_25\bin\Debug\net7.0\Homework4_25.deps.json
+D:\c#Урок 2 семинары\Examples\Homework4_25\bin\Debug\net7.0\Homework4_25.runtimeconfig.json
+D:\c#Урок 2 семинары\Examples\Homework4_25\bin\Debug\net7.0\Homework4_25.dll
+D:\c#Урок 2 семинары\Examples\Homework4_25\bin\Debug\net7.0\Homework4_25.pdb
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.csproj.AssemblyReference.cache
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.AssemblyInfoInputs.cache
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.AssemblyInfo.cs
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.csproj.CoreCompileInputs.cache
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.dll
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\refint\Homework4_25.dll
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.pdb
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\Homework4_25.genruntimeconfig.cache
+D:\c#Урок 2 семинары\Examples\Homework4_25\obj\Debug\net7.0\ref\Homework4_25.dll
