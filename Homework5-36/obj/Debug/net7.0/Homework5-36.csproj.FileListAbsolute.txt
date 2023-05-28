@@ -1,0 +1,15 @@
+D:\c#Урок 2 семинары\Examples\Homework5-36\bin\Debug\net7.0\Homework5-36.exe
+D:\c#Урок 2 семинары\Examples\Homework5-36\bin\Debug\net7.0\Homework5-36.deps.json
+D:\c#Урок 2 семинары\Examples\Homework5-36\bin\Debug\net7.0\Homework5-36.runtimeconfig.json
+D:\c#Урок 2 семинары\Examples\Homework5-36\bin\Debug\net7.0\Homework5-36.dll
+D:\c#Урок 2 семинары\Examples\Homework5-36\bin\Debug\net7.0\Homework5-36.pdb
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.csproj.AssemblyReference.cache
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.AssemblyInfoInputs.cache
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.AssemblyInfo.cs
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.csproj.CoreCompileInputs.cache
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.dll
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\refint\Homework5-36.dll
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.pdb
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\Homework5-36.genruntimeconfig.cache
+D:\c#Урок 2 семинары\Examples\Homework5-36\obj\Debug\net7.0\ref\Homework5-36.dll
