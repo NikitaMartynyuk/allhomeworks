@@ -5,10 +5,10 @@
 // 2, 4 -> 16
 
 Console.Write("Введите число A: ");
-int a = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine()!);
 
 Console.Write("Введите степень B: ");
-int b = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine()!);
 
 int result = 1;
 

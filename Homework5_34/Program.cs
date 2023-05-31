@@ -11,7 +11,6 @@ for (int i = 0; i < arr.Length; i++)
 {
     arr[i] = random.Next(100, 1000);
 }
-
 // Подсчёт количества чётных чисел в массиве
 int count = 0;
 for (int i = 0; i < arr.Length; i++)
