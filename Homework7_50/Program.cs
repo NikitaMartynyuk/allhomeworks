@@ -14,11 +14,12 @@
 
 int[,] arr = new int[3, 4] { { 1, 4, 7, 2 }, { 5, 9, 2, 3 }, { 8, 4, 2, 4 } };
 
-// ввод значения элемента массива пользователем
+
+
 Console.Write("Введите значение элемента массива: ");
 int value = Convert.ToInt32(Console.ReadLine());
 
-// поиск элемента в массиве и вывод его координат
+
 for (int i = 0; i < arr.GetLength(0); i++)
 {
     for (int j = 0; j < arr.GetLength(1); j++)
@@ -26,7 +27,7 @@ for (int i = 0; i < arr.GetLength(0); i++)
         if (arr[i, j] == value)
         {
             Console.WriteLine("Элемент {0} находится на позиции ({1}, {2})", value, i, j);
-            return;  // завершаем программу, если элемент найден
+            return;
         }
     }
 }
