@@ -18,9 +18,9 @@ for (int i = 0; i < m; i++)
 
     for (int j = 0; j < n; j++)
     {
-        arr[i, j] = rnd.NextDouble() * 20 - 10;  // случайное вещественное число из диапазона [-10, 10)
+        arr[i, j] = rnd.NextDouble() * 20 -10; 
         Console.Write(arr[i, j] + " ");
+
     }
     Console.WriteLine();
 
-    
