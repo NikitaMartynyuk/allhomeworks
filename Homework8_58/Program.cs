@@ -7,28 +7,39 @@
 // // 18 20
 // // 15 18
 
-int[,,] arr = new int[2, 2, 2];
-int index = 0; // индекс текущего элемента
+int[,] matrix1 = new int[,] { { 5, 4 }, { 3, 2 } };
+int[,] matrix2 = new int[,] { { 7, 4 }, { 3, 3 } };
+int[,] result = new int[2, 2];
 
-// заполнение массива неповторяющимися двузначными числами
-for (int i = 0; i < 2; i++)
+// проверяем размерности матриц, чтобы определить возможность умножения
+if (matrix1.GetLength(1) != matrix2.GetLength(0))
 {
-    for (int j = 0; j < 2; j++)
+    Console.WriteLine("Некорректный размер матрицы");
+    return;
+}
+
+// умножаем матрицы
+for (int i = 0; i < matrix1.GetLength(0); i++)
+{
+    for (int j = 0; j < matrix2.GetLength(1); j++)
     {
-        for (int k = 0; k < 2; k++)
+        int sum = 0;
+
+        for (int k = 0; k < matrix1.GetLength(1); k++)
         {
-            do
-            {
-                arr[i, j, k] = new Random().Next(10, 100);
-
-            } while (Array.IndexOf(arr, arr[i, j, k]) != index);
-
-            index++;
+            sum += matrix1[i, k] * matrix2[k, j];
         }
+
+        result[i, j] = sum;
     }
 }
 
-
-
-
-
+// выводим результат
+for (int i = 0; i < result.GetLength(0); i++)
+{
+    for (int j = 0; j < result.GetLength(1); j++)
+    {
+        Console.Write($"{result[i, j]} ");
+    }
+    Console.WriteLine("");
+}
